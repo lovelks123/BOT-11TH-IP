@@ -179,4 +179,17 @@ body{
   border-radius: 10px;
   border: 2px solid #fff;
 }
+
+.footer-credit {
+  position: fixed;
+  bottom: 8px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 0.85rem;
+  color: #6b7280;
+  background: transparent;
+}
+
+
 .list::-webkit-scrollbar-track{ background: #fff0f6; border-radius:10px; }
