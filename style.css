@@ -62,7 +62,7 @@ body{
 
 /* Text helpers */
 .field{ display:flex; flex-direction:column; gap:6px; margin:6px 0; }
-.label{ color:var(--muted); font-size:6rem; }
+.label{ color:var(--muted); font-size:92rem; }
 .muted{ color:var(--muted); margin:6px 2px; }
 
 /* Inputs & selects (white with pink accents) */
@@ -184,6 +184,7 @@ body{
 
 
 .list::-webkit-scrollbar-track{ background: #fff0f6; border-radius:10px; }
+
 
 
 
